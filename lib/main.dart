@@ -61,7 +61,6 @@ class _MyHomePageState extends State<MyHomePage> {
               text: 'Scheduled Notification',
               gradientColors: const [Colors.blue, Colors.purple],
               onPressed: () {
-                print('soon');
               },
             ),
             const SizedBox(height: 19,),
